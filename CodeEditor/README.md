@@ -26,7 +26,7 @@ This project allows users to write, edit, and preview code directly in the brows
 
 ##  Preview
 
-![Todo App Screenshot](./UI.png)
+![App Screenshot](./UI.png)
 
 ---
 
@@ -34,5 +34,5 @@ This project allows users to write, edit, and preview code directly in the brows
 
 1. Clone this repository or download the folder:  
    ```bash
-   git clone https://github.com/JAVAScript-Pojects/JS-Projects.git
-2. cd JS-Projects/CodeEditor
+   git clone https://github.com/junaidsheikh-dev/JAVAScript-Pojects.git
+2. cd JAVAScript-Projects/CodeEditor
