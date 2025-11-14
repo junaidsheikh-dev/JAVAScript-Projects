@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #141E30;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #243B55, #141E30);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #243B55, #141E30); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    display: flex;
+    justify-content: center;
+}
+
+.css-paragraph-render,
+.css-input {
+    display: grid;
+    grid-template-columns: 200px 150px 100px;
+    column-gap: 10px;
+    row-gap: 10px;
+    align-items: center;
+}
+
+.css-input{
+    margin-bottom: 10px;
+    align-items: stretch;
+}
+
+.css-name,
+.css-duedate,
+.css-deletebutton {
+    font-size: 15px;
+    padding: 6px;
+}
+
+.css-addbutton{
+    background-color: green;
+    color: white;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.css-deletebutton{
+    background-color: darkred;
+    color: white;
+    font-size: 15px;
+    cursor: pointer; 
+}
+
+.css-heading,
+.css-paragraph-render{
+    color: whitesmoke;
+}
