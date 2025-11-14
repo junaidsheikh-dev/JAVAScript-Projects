@@ -26,7 +26,7 @@ This app helps users manage daily tasks by adding, deleting, and marking them as
 
 ##  Preview
 
-![Todo App Screenshot](./ShTodo.png)
+![Todo App Screenshot](./Todo.png)
 
 ---
 
@@ -34,7 +34,7 @@ This app helps users manage daily tasks by adding, deleting, and marking them as
 
 1. Clone this repository (skip this step if you already done it):  
    ```bash
-   git clone https://github.com/levelupsoftwares/JS-Projects.git
+   git clone https://github.com/levelupsoftwares/JAVAScript-Projects.git
 2. After cloning, you can go into this project-folder like this:
   ```bash
      cd JS-Projects/Todo\ App
